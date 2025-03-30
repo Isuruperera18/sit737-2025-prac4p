@@ -1,0 +1,7 @@
+{"level":"error","message":"Invalid input provided for addition","service":"calc-service"}
+{"level":"info","message":"Addition requested: 5 + 3 = 8","service":"calc-service"}
+{"level":"info","message":"Addition requested: 55 + 3 = 58","service":"calc-service"}
+{"level":"info","message":"Addition requested: 55 + 3 = 58","service":"calc-service"}
+{"level":"info","message":"Addition requested: 55 + 3 = 58","service":"calc-service"}
+{"level":"info","message":"Addition requested: 0 + 3 = 3","service":"calc-service"}
+{"level":"info","message":"Addition requested: 0 + 3 = 3","service":"calc-service"}
