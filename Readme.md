@@ -15,7 +15,7 @@ Ensure the following are installed:
 
 ### Clone Repository  
 ```sh
-git clone https://github.com/<your-username>/sit737-2025-prac4p-alt.git
+git clone https://github.com/Isuruperera18/sit737-2025-prac4p.git
 cd sit737-2025-prac4p-alt
 ```
 
